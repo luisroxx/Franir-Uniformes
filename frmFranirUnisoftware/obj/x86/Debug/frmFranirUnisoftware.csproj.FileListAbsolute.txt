@@ -1,0 +1,38 @@
+C:\Users\Luis\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\bin\Debug\frmFranirUnisoftware.exe
+C:\Users\Luis\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\bin\Debug\frmFranirUnisoftware.pdb
+C:\Users\Luis\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.frmFranirUnisoftware.resources
+C:\Users\Luis\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.Properties.Resources.resources
+C:\Users\Luis\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.exe
+C:\Users\Luis\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.pdb
+C:\Users\Luis\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmVerificaTransacao.frmVerificaTransacao.resources
+C:\Users\Luis\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmCadastroTransacao.frmCadastroTransacao.resources
+C:\Users\Luis Guilherme\Google Drive\MI BACKUP\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.exe
+C:\Users\Luis Guilherme\Google Drive\MI BACKUP\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.pdb
+C:\Users\LUIS\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.csprojResolveAssemblyReference.cache
+C:\Users\LUIS\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.csproj.GenerateResource.Cache
+C:\Users\LUIS\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.csproj.ResolveComReference.cache
+C:\Users\LUIS\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\bin\Debug\MySql.Data.dll
+C:\Users\LUIS\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\bin\Debug\frmFranirUnisoftware.exe.manifest
+C:\Users\LUIS\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\bin\Debug\frmFranirUnisoftware.application
+C:\Users\LUIS\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.exe.manifest
+C:\Users\LUIS\Desktop\Franir UniSoftware\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.application
+E:\Franir UniSoftware V2.0\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.csproj.ResolveComReference.cache
+E:\Franir UniSoftware V2.0\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.exe
+E:\Franir UniSoftware V2.0\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.pdb
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\bin\Debug\frmFranirUnisoftware.exe.manifest
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\bin\Debug\frmFranirUnisoftware.application
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\bin\Debug\frmFranirUnisoftware.exe
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\bin\Debug\frmFranirUnisoftware.pdb
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.csprojResolveAssemblyReference.cache
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.csproj.ResolveComReference.cache
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmCadastroTransacao.frmCadastroTransacao.resources
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.frmFranirUnisoftware.resources
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmVerificaTransacao.frmVerificaTransacao.resources
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.Properties.Resources.resources
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.csproj.GenerateResource.cache
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.csproj.CoreCompileInputs.cache
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.exe.manifest
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.application
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.csproj.CopyComplete
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.exe
+C:\Users\Zerato\Desktop\Franir UniSoftware V3.1\frmFranirUnisoftware\frmFranirUnisoftware\obj\x86\Debug\frmFranirUnisoftware.pdb
